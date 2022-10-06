@@ -1,2 +1,2 @@
-#!/bin/bash
-sudo chmod betty hello
+h!/bin/bash
+sudo chown betty hello
